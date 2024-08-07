@@ -6,6 +6,8 @@
   - [Algorithm for file updates](https://github.com/artemino1/AlgorithmForFileUpdates/blob/main/README.md)
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://github.com/artemino1/Apply-filters-to-SQL-queries/blob/main/README.md)
+- <b>Bash</b>
+  - [File permissions](https://github.com/artemino1/File-permissions/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
