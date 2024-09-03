@@ -4,6 +4,7 @@
 
 - <b>Python</b>
   - [Algorithm for file updates](https://github.com/artemino1/AlgorithmForFileUpdates/blob/main/README.md)
+  - [Caesar Cipher](https://github.com/artemino1/CaesarCipherProject/blob/main/README.md)
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://github.com/artemino1/Apply-filters-to-SQL-queries/blob/main/README.md)
 - <b>Bash</b>
