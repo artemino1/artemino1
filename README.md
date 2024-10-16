@@ -1,4 +1,4 @@
-<h1>Hi, I'm mino! 👋
+<h1>Hi, I'm Artem Iakovlev! 👋
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
